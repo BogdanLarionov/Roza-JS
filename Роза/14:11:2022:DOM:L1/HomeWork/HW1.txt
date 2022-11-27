@@ -1,0 +1,28 @@
+Ссылка на прошлые лекции:
+https://nice-pillow-1d3.notion.site/Front-end-6e98cf33bd2e404493555108fe051030
+Ссылка на план проф. курса:
+https://nice-pillow-1d3.notion.site/25a28c05392c459fa1366d4b27db4e4f
+
+
+2 replies
+Last reply 1 day agoView thread
+
+
+Roza Asatryan
+  12:48 PM
+До 16,11 нужно прочитать;
+ 1)https://drive.google.com/drive/folders/1TmjXloBiRYIa-lKlAu8hxvKO_bZFyEWk?usp=share_link
+ (ссылка на книгу для закрепления материала)
+ ((9 глава - часть “Поиск элементов DOM”)
+ 2)https://learn.javascript.ru/searching-elements-dom 
+ 3)https://developer.mozilla.org/ru/docs/Web/API/Document/getElementById
+ 4)https://developer.mozilla.org/ru/docs/Web/API/Document/getElementsByClassName 
+ 5)https://developer.mozilla.org/ru/docs/Web/API/HTMLElement/innerText 
+ 6)https://developer.mozilla.org/ru/docs/Web/API/Document/getElementsByTagName 
+ 7)https://developer.mozilla.org/ru/docs/Web/API/Document/querySelector 
+ 8)https://developer.mozilla.org/ru/docs/Web/API/Document/querySelectorAll
+ 9)https://developer.mozilla.org/ru/docs/Web/API/Element/setAttribute
+
+Друзья, добрый вечер!
+Вот вам интересная статья про разницу между innerText, innerHTML и textContent.
+https://javascript.plainenglish.io/innertext-vs-innerhtml-vs-textcontent-b8e92526e0c8

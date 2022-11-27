@@ -1,0 +1,38 @@
+/* div {
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    display: inline-block;
+}
+
+.active {
+color:green;
+background-color:aquamarine;
+} */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ div {
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.show{
+    display: block;
+}
+
+.hide{
+    display: none;
+}
