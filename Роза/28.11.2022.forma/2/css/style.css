@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#form {
+    margin: 50px auto;
+    padding: 60px;
+    border-radius: 15px;
+    max-width: 700px;
+    width: 100%;
+    /* border: 1px solid black; */
+    background-color: #34495e;
+}
+
+input{
+    width: 100%;
+    height: 35px;
+    margin-bottom: 10px;
+    outline: none;
+}
+
+button{
+    border: none;
+    width: 100%;
+    background-color: rgb(6, 180, 6);
+    height: 35px;
+    color: white;
+    cursor: pointer;
+}
